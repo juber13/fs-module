@@ -1,0 +1,12 @@
+{
+  "name": "fsmodule",
+  "version": "1.0.0",
+  "description": "this is fs node module to create and read file and write file",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "juber",
+  "license": "ISC"
+}
